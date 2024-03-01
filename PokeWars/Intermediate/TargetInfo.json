@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PokeWars",
+			"Path": "..\\Source\\PokeWars.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PokeWarsEditor",
+			"Path": "..\\Source\\PokeWarsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
