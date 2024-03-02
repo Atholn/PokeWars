@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\Programowanie\\PokeWars\\PokeWars\\Source\\PokeWars\\PokeWars.Build.cs",
-		"D:\\Programowanie\\PokeWars\\PokeWars\\Source\\PokeWars.Target.cs",
-		"D:\\Programowanie\\PokeWars\\PokeWars\\Source\\PokeWarsEditor.Target.cs"
+		"D:\\Programowanie\\PokeWars\\PokeWars\\PokeWars\\Source\\PokeWars\\PokeWars.Build.cs",
+		"D:\\Programowanie\\PokeWars\\PokeWars\\PokeWars\\Source\\PokeWars.Target.cs",
+		"D:\\Programowanie\\PokeWars\\PokeWars\\PokeWars\\Source\\PokeWarsEditor.Target.cs"
 	],
 	"EngineVersion": "5.3.2"
 }

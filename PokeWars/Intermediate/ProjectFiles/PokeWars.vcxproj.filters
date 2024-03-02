@@ -11,6 +11,8 @@
     <None Include="..\..\Source\PokeWarsEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -36,6 +38,12 @@
       <Filter>Source\PokeWars</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\PokeWars\PokeWars.h">
+      <Filter>Source\PokeWars</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PokeWars\TestCharacter.cpp">
+      <Filter>Source\PokeWars</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PokeWars\TestCharacter.h">
       <Filter>Source\PokeWars</Filter>
     </ClInclude>
   </ItemGroup>
