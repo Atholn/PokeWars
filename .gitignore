@@ -154,11 +154,6 @@ SourceArt/**/*.tga
 # copied engine certs
 **/Content/Certificates/*
 
-# Whitelist PakBlacklist-<BuildConfiguration>.txt files
-!Build/*/
-Build/*/**
-!Build/*/PakBlacklist*.txt
-
 # Don't ignore icon files in Build
 !Build/**/*.ico
 
@@ -188,10 +183,13 @@ DerivedDataCache/*
 
 # Builds
 **/Build/*
-BCFPS/DevBuild/
 
 #Exported packages
 artifacts/
 *_Unreal_*Build
 
 **/Config/BrainCloudSettings.ini
+
+**/Logs/*
+/PokeWars/Saved/Logs/PokeWars.log
+
