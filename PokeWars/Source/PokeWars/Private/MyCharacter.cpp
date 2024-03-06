@@ -2,7 +2,9 @@
 
 
 #include "MyCharacter.h"
+#include "InputMappingContext.h"
 #include "EnhancedInputSubsystems.h"
+#include "EnhancedInputComponent.h"
 #include "Camera/CameraComponent.h"
 
 // Sets default values
@@ -23,10 +25,10 @@ void AMyCharacter::BeginPlay()
 	
 	if (APlayerController* PlayerController = Cast<APlayerController>(Controller))
 	{
-		//if (UEnhancedInputLocalPlayerSubsystem* Subsystem = ULocalPlayer::GetSubsystem<UEnhancedInputLocalPlayerSubsystem>(PlayerController->GetLocalPlayer()))
-		//{
-		//	Subsystem->AddMappingContext(InputMapping, 0);
-		//}
+		if (UEnhancedInputLocalPlayerSubsystem* Subsystem = ULocalPlayer::GetSubsystem<UEnhancedInputLocalPlayerSubsystem>(PlayerController->GetLocalPlayer()))
+		{
+			Subsystem->AddMappingContext(InputMapping, 0);
+		}
 	}
 }
 

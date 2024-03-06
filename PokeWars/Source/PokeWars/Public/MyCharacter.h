@@ -4,8 +4,8 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
-#include "MyCharacter.generated.h"
 #include "EnhancedInputComponent.h"
+#include "MyCharacter.generated.h"
 
 UCLASS()
 class POKEWARS_API AMyCharacter : public ACharacter
