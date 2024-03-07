@@ -15,6 +15,9 @@ class POKEWARS_API AMyCharacter : public ACharacter
 	UPROPERTY(VisibleAnywhere, meta = (AllowPrivateAccess = "true"))
 	class UCameraComponent* Camera;
 
+	UPROPERTY(VisibleAnywhere, meta = (AllowPrivateAccess = "true"))
+	class USpringArmComponent* SpringArm;
+
 protected:
 
 	UPROPERTY(EditAnywhere, Category = "EnhancedInput")
