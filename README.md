@@ -1,8 +1,8 @@
-# PokeWars
+# PokeWars / ポケウォーズ
 
 <div align="center">
 
-  <img src="readme/pokeWars.jpg" alt="logoInFeature" width="400" class="logo"/>
+  <img src="readme/logo2DWithoutName.png" alt="logoInFeature" width="400" class="logo"/>
 
 </div>
 
@@ -53,3 +53,9 @@ The game was inspired by the photos below and I will base the game system on the
 ---
 ## Release
 First release soon
+
+<div align="center">
+
+  <img src="readme/3C1DB455-B7A6-4E68-A71A-2D59C5BB8055.png" alt="logoInFeature" width="400" class="logo"/>
+
+</div>
