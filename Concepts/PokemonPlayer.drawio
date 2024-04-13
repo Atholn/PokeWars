@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-13T15:42:50.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="4Bpu6U2JtDwCtM-k8lDe" version="24.2.5" type="device">
+<mxfile host="app.diagrams.net" modified="2024-04-13T15:54:54.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="ktz0HNQqskW21K0_s7hX" version="24.2.5" type="device">
   <diagram name="Page-1" id="B9voW5ncnK0YKJ4ArBj8">
-    <mxGraphModel dx="2954" dy="2199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="747" dy="2342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,7 +125,7 @@
         <mxCell id="HrmXleMLPZBCq29RgUVU-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HrmXleMLPZBCq29RgUVU-24" target="HrmXleMLPZBCq29RgUVU-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HrmXleMLPZBCq29RgUVU-24" value="&lt;div&gt;CurrentStats&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HrmXleMLPZBCq29RgUVU-24" value="&lt;div&gt;BasicStats&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HrmXleMLPZBCq29RgUVU-26" value="Level" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
