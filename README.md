@@ -36,6 +36,7 @@ The game was inspired by the photos below and I will base the game system on the
 + Visual Studio / Rider to develop c++ scripts  
 
 ## Planned features
+- [ ] Main menu
 - [ ] Hp and gaining experience
 - [ ] World with diverse lands 
 - [ ] Mobs
