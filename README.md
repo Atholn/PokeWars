@@ -39,6 +39,7 @@ The game was inspired by the photos below and I will base the game system on the
 - [X] Main menu
 - [ ] Characters menu
 - [ ] Hp and gaining experience
+- [ ] Fighting
 - [ ] World with diverse lands 
 - [ ] Mobs
 - [ ] Tree sklils - 3 panels for attack, defense and speed skills
