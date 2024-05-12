@@ -1,5 +1,4 @@
-# PokeWars / ポケウォーズ
-
+# PokeWars / ポケモンウォーズ
 <div align="center">
 
   <img src="readme/logo2DWithoutName.png" alt="logoInFeature" width="400" class="logo"/>
