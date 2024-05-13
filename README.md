@@ -30,9 +30,9 @@ The game was inspired by the photos below and I will base the game system on the
 ---
 
 ## How to run / Develop ?
-+ Unreal Engine 5.3 - For develop game 
-+ Blender 4.0 - For models 
-+ Visual Studio / Rider to develop c++ scripts  
++ Unreal Engine 5.3 - For develop game, with blueprints
++ Blender 4.0 - For models
++ Visual Studio / Rider to develop c++ scripts
 
 ## Planned features
 - [X] Main menu
