@@ -51,6 +51,7 @@ The game was inspired by the photos below and I will base the game system on the
 
 ## Special's features:
 - [ ] Shrek mode - Speed mode (on a donkey)
+- [ ] Beaver mode - Defense mode can dam create
 
 ---
 
