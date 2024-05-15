@@ -53,6 +53,12 @@ The game was inspired by the photos below and I will base the game system on the
 - [ ] Shrek mode - Speed mode (on a donkey)
 
 ---
+
+https://100commitow.pl/
+
+#100commitow
+
+---
 ## Release
 First release soon
 
