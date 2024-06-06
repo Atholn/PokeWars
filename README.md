@@ -37,7 +37,7 @@ The game was inspired by the photos below and I will base the game system on the
 ## Planned features
 - [X] Main menu
 - [x] Characters menu
-- [ ] Hp and gaining experience
+- [X] Hp and gaining experience
 - [ ] Fighting
 - [ ] World with diverse lands 
 - [ ] Mobs
