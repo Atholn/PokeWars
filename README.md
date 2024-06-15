@@ -68,4 +68,3 @@ First release soon
   <img src="readme/3C1DB455-B7A6-4E68-A71A-2D59C5BB8055.png" alt="logoInFeature" width="400" class="logo"/>
 
 </div>
-
